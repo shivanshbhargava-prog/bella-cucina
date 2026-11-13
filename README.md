@@ -86,3 +86,12 @@ Developed as a hands-on React and TypeScript project.
 ---
 
 **Bella Cucina — Bringing the Taste of Italy to Your Table.** ❤️
+
+
+## 🌐 Live Demo
+
+[Visit Bella Cucina](https://bella-cucina-five.vercel.app/)
+
+## 📂 GitHub Repository
+
+[View Source Code](https://github.com/shivanshbhargava-prog/bella-cucina)

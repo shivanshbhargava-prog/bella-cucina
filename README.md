@@ -90,7 +90,7 @@ Developed as a hands-on React and TypeScript project.
 
 ## 🌐 Live Demo
 
-[Visit Bella Cucina](https://bella-cucina-five.vercel.app/)
+[Visit Bella Cucina](https://bella-cucina-xi.vercel.app/)
 
 ## 📂 GitHub Repository
 

@@ -1,22 +1,20 @@
+
 function Navbar() {
   return (
-    <nav className="bg-[#0c0b09] text-white px-8 py-5">
+    <nav className="bg-[#0c0b09] px-8 py-5 text-white">
       <div className="flex items-center justify-between">
 
-
-        <h1 className="text-2xl font-serif text-[#d4af70]">
+        <h1 className="font-serif text-2xl text-[#d4af70]">
           Bella Cucina
         </h1>
 
-
         <div className="flex items-center gap-8">
-          <a href="#" className="hover:text-[#d4af70]">Home</a>
-          <a href="#" className="hover:text-[#d4af70]">Menu</a>
-          <a href="#" className="hover:text-[#d4af70]">About</a>
-          <a href="#" className="hover:text-[#d4af70]">Gallery</a>
-          <a href="#" className="hover:text-[#d4af70]">Contact</a>
+          <a href="#home" className="hover:text-[#d4af70]">Home</a>
+          <a href="#menu" className="hover:text-[#d4af70]">Menu</a>
+          <a href="#about" className="hover:text-[#d4af70]">About</a>
+          <a href="#gallery" className="hover:text-[#d4af70]">Gallery</a>
+          <a href="#contact" className="hover:text-[#d4af70]">Contact</a>
         </div>
-
 
         <a
           href="#reservation"
